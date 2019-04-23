@@ -58,3 +58,8 @@ __Тараса Шевченка__
 ![Image](https://github.com/irynaa-semchuk/iryna-semchuk.github.io/blob/master/Okol.jpg)
 
 *На околиці*
+
+#### Цікаві посилання
+Соціологічне опитування!
+
+[Місце соціальних мереж в житті сучасної людини](https://docs.google.com/forms/d/e/1FAIpQLScPrjciCV_bNorvcO5pE1nltscuQ0WrQhOSmmZaA8vtk7Y7iQ/viewform?usp=sf_link)
