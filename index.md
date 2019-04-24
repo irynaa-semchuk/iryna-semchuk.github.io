@@ -63,3 +63,7 @@ __Тараса Шевченка__
 Соціологічне опитування!
 
 [Місце соціальних мереж в житті сучасної людини](https://docs.google.com/forms/d/e/1FAIpQLScPrjciCV_bNorvcO5pE1nltscuQ0WrQhOSmmZaA8vtk7Y7iQ/viewform?usp=sf_link)
+
+Набір на курс AOSP GL ProCamp!
+
+[Подія](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3Vja2Q4a3MxdWpzajA1NG0wb2t1bXRjdGkgaXJ5bmFhLnNlbWNodWtAbQ&tmsrc=irynaa.semchuk%40gmail.com)
